@@ -11,8 +11,8 @@ I'm a full stack junior software developer, passionate about learning and workin
 
 - Html5 ✅
 - css3 ✅
-- Html and css project 
-- javascript 
+- Html and css project ✅ 
+- javascript ✅
 - bootstrap 5
 - html , css , js and bootstrap project 
 - Es6 basics 
