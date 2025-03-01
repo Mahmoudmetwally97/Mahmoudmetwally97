@@ -31,7 +31,12 @@ I'm a full stack junior software developer, passionate about learning and workin
 - php security 
 - my sql 
 - full stack project
-
+- JavaScript & TypeScript
+- Node.js & Express
+- Security & Performance Optimization 
+- PostgreSQL & Docker 
+- Testing & GraphQL 
+- NestJS, CI/CD, AWS Deployment 
 
 ## Projects ##
 1- https://mahmoudmetwally97.github.io/food-menu/
